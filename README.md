@@ -1,6 +1,6 @@
 # Bare Bones Flite
 
-This is a minimal bare-bones version of the amazing [https://github.com/festvox/flite](Flite text-to-speech library). Unlike the main distribution that includes training tools, tools to create custom voices, and many voice options - this version is the bare minimum to build Flite's three basic English text-to-speech libraries:
+This is a minimal bare-bones version of the amazing [Flite text-to-speech library](https://github.com/festvox/flite). Unlike the main distribution that includes training tools, tools to create custom voices, and many voice options - this version is the bare minimum to build Flite's three basic English text-to-speech libraries:
 
 ```
 flite
